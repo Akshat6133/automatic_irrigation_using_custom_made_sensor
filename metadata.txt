@@ -1,0 +1,4 @@
+TDS of water = 263.7ppm
+conductivity = 527.1uS/cm
+pH = 8.065
+dry sand volume = 250mL
